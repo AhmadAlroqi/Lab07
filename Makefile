@@ -21,5 +21,10 @@ task4:
 
 run4:
 	@./task4_exe
+task5:
+	@gcc -o task5_exe task5.c
+
+run5:
+	@./task5_exe
 
 
